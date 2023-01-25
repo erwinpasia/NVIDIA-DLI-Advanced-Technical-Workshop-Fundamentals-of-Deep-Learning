@@ -14,7 +14,7 @@ The Learning Objectives are:
 
 <p style="text-align:center">
     <a href="https://courses.nvidia.com/certificates/ef77185931c546b481ba51840fdd8cfa/" target="_blank">
-    <img src="https://github.com/erwinpasia/NVIDIA-DLI---Fundamentals-of-Deep-Learning/blob/main/images/NVIDIA%20DLI%20-%20Fundamentals%20of%20Deep%20Learning.png" alt="IBM Data Science Professional Certificate"  />
+    <img src="https://github.com/erwinpasia/NVIDIA-DLI---Fundamentals-of-Deep-Learning/blob/main/images/NVIDIA%20DLI%20-%20Fundamentals%20of%20Deep%20Learning.png" alt="NVIDIA-DLI---Fundamentals-of-Deep-Learning"  />
     </a>
 </p>
 
