@@ -1,5 +1,5 @@
 
-# NVIDIA-DLI---Fundamentals-of-Deep-Learning
+# NVIDIA DLI - Fundamentals of Deep Learning
 
 This is an Nvidia Deep Learning Institute's Technical Workshop for Fundamentals of Deep Learning
 
