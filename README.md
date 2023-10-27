@@ -2,7 +2,7 @@
 # [NVIDIA DLI - Technical Workshop for Fundamentals of Deep Learning](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning) - COMPLETED.
 ## [Certificate Of Competency - Successfully Completed!](https://courses.nvidia.com/certificates/ef77185931c546b481ba51840fdd8cfa)
 
-This is an Nvidia Deep Learning Institute's Technical Workshop for Fundamentals of Deep Learning
+## Instructor-Led Workshop's Fundamentals of Deep Learning
 
 The Learning Objectives are:
 
