@@ -2,7 +2,7 @@
 # [NVIDIA DLI - Technical Workshop for Fundamentals of Deep Learning](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning) - COMPLETED!
 
 
-The Learning Objectives are:
+**The Learning Objectives are:**
 
 1. Learn the fundamental techniques and tools required to train a deep learning model.
 2. Gain experience with common deep learning data types and model architectures.
