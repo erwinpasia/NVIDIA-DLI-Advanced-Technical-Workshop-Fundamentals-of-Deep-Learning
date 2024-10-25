@@ -1,5 +1,5 @@
 
-# [NVIDIA DLI - Technical Workshop for Fundamentals of Deep Learning](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning) - COMPLETED!
+# [NVIDIA DLI - Advanced Technical Workshop: Fundamentals of Deep Learning](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning) - COMPLETED!
 
 
 **The Learning Objectives are:**
