@@ -2,14 +2,6 @@
 # [NVIDIA DLI - Technical Workshop for Fundamentals of Deep Learning](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning) - COMPLETED!
 
 
-## Instructor-Led Workshop Outline:
-
-<p style="text-align:center">
-    <a href="https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning" target="_blank">
-    <img src="images/Workshop_Outline_FDL.png" alt="NVIDIA-DLI---Fundamentals-of-Deep-Learning"  />
-    </a>
-</p>
-
 The Learning Objectives are:
 
 1. Learn the fundamental techniques and tools required to train a deep learning model.
@@ -17,6 +9,14 @@ The Learning Objectives are:
 3. Enhance datasets through data augmentation to improve model accuracy.
 4. Leverage transfer learning between models to achieve efficient results with less data and computation.
 5. Build confidence to take on your own project with a modern deep learning framework.
+
+## Instructor-Led Workshop Outline:
+
+<p style="text-align:center">
+    <a href="https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning" target="_blank">
+    <img src="images/Workshop_Outline_FDL.png" alt="NVIDIA-DLI---Fundamentals-of-Deep-Learning"  />
+    </a>
+</p>
 
 ## [Certificate Of Competency](https://learn.nvidia.com/certificates?id=ef77185931c546b481ba51840fdd8cfa)
 
