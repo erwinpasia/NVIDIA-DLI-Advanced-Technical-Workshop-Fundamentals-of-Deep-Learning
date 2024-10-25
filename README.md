@@ -18,7 +18,7 @@ The Learning Objectives are:
     </a>
 </p>
 
-## [Certificate Of Competency](https://learn.nvidia.com/certificates?id=ef77185931c546b481ba51840fdd8cfa)
+## [Certificate Of Competency:](https://learn.nvidia.com/certificates?id=ef77185931c546b481ba51840fdd8cfa)
 
 <p style="text-align:center">
     <a href="https://courses.nvidia.com/certificates/ef77185931c546b481ba51840fdd8cfa/" target="_blank">
