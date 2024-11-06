@@ -1,7 +1,7 @@
 
 # [NVIDIA DLI - Advanced Technical Workshop: Fundamentals of Deep Learning](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning) - COMPLETED!
 
-# NVIDIA Deep Learning Institute's (DLI) Fundamentals of Deep Learning
+# Fundamentals of Deep Learning
 
 This repository provides an overview of the **Fundamentals of Deep Learning** course, offered by NVIDIA's Deep Learning Institute (DLI). The course is designed to teach participants the foundational concepts of deep learning through hands-on exercises in computer vision and natural language processing (NLP). By the end of the course, participants will have a solid understanding of how to train and optimize neural networks using modern deep learning frameworks.
 
