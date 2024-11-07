@@ -48,14 +48,6 @@ One major focus of the course is teaching how to enhance datasets through **data
 - Requires less labeled data for training new models.
 - Achieves high accuracy with minimal computational resources.
 
-## End-to-End Workflow Acceleration
-
-The course emphasizes building efficient workflows where every stage—from data preprocessing to model training—is optimized using state-of-the-art tools. By integrating libraries like TensorFlow and Keras into these workflows, participants can achieve significant speedups compared to traditional methods.
-
-### Benefits of Optimized Workflows:
-- Faster iteration cycles due to reduced computation time at each stage.
-- Scalability across larger datasets without sacrificing performance.
-
 ## Final Project: Object Classification
 
 In the final project, participants will apply their knowledge by building a computer vision model that distinguishes between fresh and rotten fruit. This project will involve:
